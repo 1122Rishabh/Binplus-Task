@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "803693303432",
+    "project_id": "binplus-task",
+    "storage_bucket": "binplus-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803693303432:android:0b0007cfa434bf2043f13d",
+        "android_client_info": {
+          "package_name": "com.chatsapp.binplustask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803693303432-t5q8o2qr7r2r7tlq6cj2glb9l08d8lrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzxHCkuLUzRaNo9wVDKFJ8rAJ-lH1VxXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803693303432-t5q8o2qr7r2r7tlq6cj2glb9l08d8lrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

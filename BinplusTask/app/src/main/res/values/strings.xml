@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Binplus Task</string>
+    <string name="group1">Aman</string>
+    <string name="group2">rishi</string>
+    <string name="group3">shubham</string>
+    <string name="group4">harsh</string>
+    <string name="group5">kunal</string>
+    <string name="group6">Aman</string>
+    <string name="group7">rishi</string>
+    <string name="group8">shubham</string>
+    <string name="group9">harsh</string>
+    <string name="group10">kunal</string>
+    <string name="group11">kunal</string>
+    <string name="group12">Aman</string>
+    <string name="group13">rishi</string>
+    <string name="group14">shubham</string>
+    <string name="group15">harsh</string>
+
+
+    <string-array name="group1">
+        <item>aman@gmail.com</item>
+        <item>aman2145</item>
+        <item>rampur</item>
+
+    </string-array>
+
+    <string-array name="group2">
+        <item>rishi@gmail.com</item>
+        <item>rishi1122</item>
+        <item>Saharanpur</item>
+    </string-array>
+
+    <string-array name="group3">
+        <item>shubh@gmail.com</item>
+        <item>shubh1122</item>
+        <item>Rampur</item>
+    </string-array>
+
+    <string-array name="group4">
+        <item>harsh@gmail.com</item>
+        <item>harsh1122</item>
+        <item>Saharanpur</item>
+    </string-array>
+    <string-array name="group5">
+        <item>kunal@gmail.com</item>
+        <item>kunal1122</item>
+        <item>rampur</item>
+    </string-array>
+
+    <string-array name="group6">
+        <item>aman@gmail.com</item>
+        <item>aman2145</item>
+        <item>rampur</item>
+
+    </string-array>
+
+    <string-array name="group7">
+        <item>rishi@gmail.com</item>
+        <item>rishi1122</item>
+        <item>Saharanpur</item>
+    </string-array>
+
+    <string-array name="group8">
+        <item>shubh@gmail.com</item>
+        <item>shubh1122</item>
+        <item>Rampur</item>
+    </string-array>
+
+    <string-array name="group9">
+        <item>harsh@gmail.com</item>
+        <item>harsh1122</item>
+        <item>Saharanpur</item>
+    </string-array>
+    <string-array name="group10">
+        <item>kunal@gmail.com</item>
+        <item>kunal1122</item>
+        <item>rampur</item>
+    </string-array>
+    <string-array name="group11">
+        <item>kunal@gmail.com</item>
+        <item>kunal1122</item>
+        <item>rampur</item>
+    </string-array>
+
+    <string-array name="group12">
+        <item>aman@gmail.com</item>
+        <item>aman2145</item>
+        <item>rampur</item>
+
+    </string-array>
+
+    <string-array name="group13">
+        <item>rishi@gmail.com</item>
+        <item>rishi1122</item>
+        <item>Saharanpur</item>
+    </string-array>
+
+    <string-array name="group14">
+        <item>shubh@gmail.com</item>
+        <item>shubh1122</item>
+        <item>Rampur</item>
+    </string-array>
+
+    <string-array name="group15">
+        <item>harsh@gmail.com</item>
+        <item>harsh1122</item>
+        <item>Saharanpur</item>
+    </string-array>
+
+</resources>
